@@ -1,0 +1,66 @@
+.App{
+  text-align: center;
+}
+
+.Nav{
+  height: 100px;
+  background-color: rgb(205, 74, 4);
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.Carasol{
+  height: 250px;
+  background-color: rgb(122, 255, 144);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.Body{
+  height: 400px;
+  background-color: blueviolet;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.body1{
+  width: 50%;
+  background-color: bisque;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.body2{
+  width: 50%;
+  background-color: rgb(216, 128, 20);
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.Footer{
+  height: 200px;
+  background-color: rgb(41, 133, 117);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: x-large;
+  font-weight: bold;
+  
+}
